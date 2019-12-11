@@ -1,0 +1,141 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: Darwin
+Software 		: nginx/1.16.0
+MySQL version 		: 8.0.15
+XML Reader 		: Yes
+PHP Version 		: 7.3.5
+PHP Max Input Vars 	: 4000
+PHP Max Post Size 	: 1000M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 1200
+Max Upload Size 	: 300 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 17:35:27 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+Deleted customizer Settings {"astra-addon-auto-version":"2.0.0","theme-auto-version":"2.1.3","site-content-layout":"boxed-container","different-retina-logo":true,"ast-header-retina-logo":"http:\/\/jaguarlimo.local\/wp-content\/uploads\/2019\/12\/logo@2x-free-img.png","display-site-title":false,"single-page-sidebar-layout":"default","footer-sml-layout":"footer-sml-layout-2","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title] | <a href=\"#\">Credits<\/a>","footer-sml-section-2":"custom","footer-sml-section-2-credit":"Powered by <a href=\"#\">[site_title]<\/a>","footer-sml-divider":0,"theme-color":"#ff3a6f","link-color":"#ff3a6f","link-h-color":"#ff3a6f","text-color":"#1d1d23","body-font-family":"'Roboto', sans-serif","body-font-weight":"400","headings-font-family":"'Noto Serif JP', sans-serif","headings-font-weight":"900","font-size-h1":{"desktop":"60","tablet":"40","mobile":"34","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"header-main-sep":0,"footer-bg-obj":{"background-color":"rgba(0,0,0,0)","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"button-bg-h-color":"#ce297e","button-radius":50,"above-header-submenu-item-border":1,"below-header-submenu-item-border":1,"mobile-header-toggle-btn-style":"outline","mobile-header-toggle-btn-border-radius":5,"ast-header-responsive-logo-width":{"desktop":"","tablet":"","mobile":"140"},"site-sidebar-layout":"no-sidebar","body-font-variant":"400","headings-font-variant":"900","transparent-header-enable":0,"footer-color":"#476d80","footer-link-color":"#476d80","footer-link-h-color":"#ff3a6f","font-size-h2":{"desktop":"42","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-page-title":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"logo-title-inline":0,"wc-header-cart-header-colors":false,"shop-quick-view-stick-cart":true,"_astra_pb_compatibility_completed":true,"is_theme_queue_running":false,"submenu-open-below-header":false}
+Deleted - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/yoga-instructor-02\/wp-content\/uploads\/sites\/286\/2018\/10\/logo-free-img.png","nav_menu_locations":{"primary":"main-menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"siteorigin_widgets_active":null,"elementor_container_width":"1200","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":"yes","elementor_page_title_selector":"","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#ff3a6f","5":"#ce297e","6":"#4d076b","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"","elementor_stretched_section_container":"","elementor_load_fa4_shim":"yes","woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+DELETED - WIDGETS {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Deleted - Term 2 - Yoga category
+Deleted - Term 3 - Main Menu nav_menu
+Deleted - Term 4 - page elementor_library_type
+Deleted - Term 5 - section elementor_library_type
+Deleted - Form ID 5 - wpforms - Contact Form
+Deleted - Post ID 9 - page - Home
+Deleted - Post ID 30 - attachment - favicon-free-img
+Deleted - Post ID 31 - attachment - logo@2x-free-img
+Deleted - Post ID 32 - attachment - logo-free-img
+Deleted - Post ID 34 - page - About Me
+Deleted - Post ID 35 - page - Classes
+Deleted - Post ID 36 -  - 
+Deleted - Post ID 37 -  - 
+Deleted - Post ID 38 -  - 
+Deleted - Post ID 40 - attachment - divider-free-img.png
+Deleted - Post ID 41 - attachment - yoga1-free-img.png
+Deleted - Post ID 42 - attachment - yoga6-free-img.png
+Deleted - Post ID 43 - attachment - yoga3-free-img.png
+Deleted - Post ID 44 - attachment - yoga5-free-img.png
+Deleted - Post ID 44 -  - 
+Deleted - Post ID 44 -  - 
+Deleted - Post ID 45 - attachment - yoga4-free-img.png
+Deleted - Post ID 46 - attachment - yoga2-free-img.png
+Deleted - Post ID 47 - attachment - bg-logo-free-img.png
+Deleted - Post ID 48 - attachment - awa1-free-img.png
+Deleted - Post ID 49 - attachment - awa4-free-img.png
+Deleted - Post ID 50 - attachment - awa2-free-img-1.png
+Deleted - Post ID 51 - attachment - awa3-free-img.png
+Deleted - Post ID 52 - attachment - awa5-free-img.png
+Deleted - Post ID 53 - attachment - count-bg-free-img.jpg
+Deleted - Post ID 54 - attachment - yoga-benefits-free-img.jpg
+Deleted - Post ID 55 - attachment - about-bg-free-img-4.jpg
+Deleted - Post ID 56 - attachment - slide4-free-img.jpg
+Deleted - Post ID 58 - attachment - quote-free-img.png
+Deleted - Post ID 59 - attachment - client1-free-img-4.png
+Deleted - Post ID 60 - attachment - client4-free-img-4.png
+Deleted - Post ID 61 - attachment - client3-free-img-4.png
+Deleted - Post ID 62 - attachment - cta-bg-free-img.jpg
+Deleted - Post ID 64 - attachment - yoga-instructor-free-img.jpg
+Deleted - Post ID 65 - attachment - author-free-img-1.jpg
+Deleted - Post ID 66 - attachment - nutritionist-free-img.jpg
+Deleted - Post ID 68 - attachment - slide1-free-img.jpg
+Deleted - Post ID 69 - attachment - slide3-free-img.jpg
+Deleted - Post ID 70 - attachment - slide2-free-img.jpg
+Deleted - Post ID 71 - attachment - slide5-free-img.jpg
+Deleted - Post ID 72 - attachment - slide6-free-img.jpg
+Deleted - Post ID 73 - attachment - discount-free-img.png
+Deleted - Post ID 76 - attachment - courses-bg-free-img-1
+Deleted - Post ID 81 - page - Publications
+Deleted - Post ID 83 - attachment - book1-free-img
+Deleted - Post ID 89 - attachment - book3-free-img
+Deleted - Post ID 93 -  - 
+Deleted - Post ID 97 -  - 
+Deleted - Post ID 126 - attachment - home-bg-free-img
+Deleted - Post ID 135 - attachment - demo-screenshot-free-img
+Deleted - Post ID 152 - page - Blog
+Deleted - Post ID 185 - attachment - weights-free-img
+Deleted - Post ID 199 - post - Live a Disciplined Life
+Deleted - Post ID 205 - attachment - blog-1
+Deleted - Post ID 295 - attachment - gymnastics-free-img
+Deleted - Post ID 312 - post - Basic Yoga Techniques for Beginners
+Deleted - Post ID 314 - post - Perfect Nutrition for Healthy Life
+Deleted - Post ID 316 - post - What I Learned from Yoga
+Deleted - Post ID 319 - post - My Yoga Journey
+Deleted - Post ID 329 - attachment - blog-2
+Deleted - Post ID 336 - attachment - blog-3
+Deleted - Post ID 341 - attachment - blog-4o-sec
+Deleted - Post ID 411 - attachment - blog-5
+Deleted - Post ID 414 - attachment - blog-6
+Deleted - Post ID 444 -  - 
+Inserted WP Form 490
+Imported Customizer Settings {"astra-settings":{"astra-addon-auto-version":"2.1.2","theme-auto-version":"2.1.2","headings-font-family":"'Montserrat', sans-serif","headings-font-weight":"800","body-font-family":"'Work Sans', sans-serif","body-font-weight":"400","theme-color":"#29d8db","link-color":"#29d8db","link-h-color":"#01578c","font-size-site-title":{"desktop":"25","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"button-color":"#ffffff","button-h-color":"#ffffff","button-bg-color":"#29d8db","button-bg-h-color":"#106ca0","button-radius":10,"headings-font-variant":"","font-size-h1":{"desktop":"60","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":"40","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-body":{"desktop":"16","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"header-main-rt-section":"widget","_astra_pb_compatibility_completed":true,"button-v-padding":18,"body-font-variant":"","header-main-rt-section-button-text":"Call Now","header-main-rt-section-button-link":"#","header-main-rt-section-button-style":"custom-button","body-line-height":"1.5","para-margin-bottom":"0","header-main-rt-section-button-padding":{"desktop":{"top":"15","right":"35","bottom":"15","left":"35"},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"header-main-sep":0,"site-content-layout":"boxed-container","different-retina-logo":false,"disable-primary-nav":false,"text-color":"#4a4a4a","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title] | Powered by [site_title]","footer-sml-divider":1,"footer-bg-obj":{"background-color":"#f6f9f9","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-color":"#01578c","footer-sml-divider-color":"rgba(221,221,221,0.8)","ast-header-retina-logo":"","ast-header-responsive-logo-width":{"desktop":"160","tablet":"","mobile":"140"},"display-site-title":false,"footer-link-color":"#01578c","mobile-header-breakpoint":"768","mobile-header-toggle-btn-style":"fill","mobile-header-toggle-btn-style-color":"#01578c","mobile-header-toggle-btn-border-radius":7},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/493/wxr.xml
+Inserted - Term 6 - {"term_id":6,"name":"section","slug":"section","term_group":0,"term_taxonomy_id":6,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 7 - {"term_id":7,"name":"Primary Menu","slug":"primary-menu","term_group":0,"term_taxonomy_id":7,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 9 - nav_menu_item - Home
+Inserted - Post 10 - nav_menu_item - About
+Inserted - Post 11 - nav_menu_item - Procedures
+Inserted - Post 13 - nav_menu_item - Reviews
+Inserted - Post 18 - attachment - hero-bg-free-img
+Inserted - Post 49 - attachment - about-bg-free-img
+Inserted - Post 117 - attachment - team-member02
+Inserted - Post 118 - attachment - team-member01
+Inserted - Post 119 - attachment - team-member03
+Inserted - Post 202 - attachment - doctor-free-img
+Inserted - Post 225 - attachment - dental-site-logo
+Inserted - Post 260 - attachment - dental-clinic-yoast-img
+Inserted - Post 261 - attachment - procedures-section-bg
+Inserted - Post 263 - attachment - icon01-free-img
+Inserted - Post 264 - attachment - icon02-free-img
+Inserted - Post 265 - attachment - icon03-free-img
+Inserted - Post 266 - attachment - icon04-free-img
+Inserted - Post 267 - attachment - icon05-free-img
+Inserted - Post 268 - attachment - icon06-free-img
+Inserted - Post 271 - attachment - favicon
+Inserted - Post 491 - page - Home
+Inserted - Post 14 - nav_menu_item - Contact
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/dentist-02\/wp-content\/uploads\/sites\/493\/2019\/09\/dental-site-logo.svg","nav_menu_locations":{"primary":"primary-menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"siteorigin_widgets_active":null,"elementor_container_width":"1240","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":null,"elementor_page_title_selector":null,"elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#29d8db","2":"#f6f9f9","3":"#7a7a7a","4":"#61ce70","5":"#01578c","6":"#4a4a4a","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":null,"elementor_stretched_section_container":null,"elementor_load_fa4_shim":"","woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}},"header-widget":{"astra-widget-list-icons-5":{"title":"","list":[{"title":"+1800 456 789","link":"#","link-target":"same-page","nofollow":"enable","imageoricon":"icon","image":"","icon":"{\"name\":\"phone-volume\",\"path\":\"M97.333 506.966c-129.874-129.874-129.681-340.252 0-469.933 5.698-5.698 14.527-6.632 21.263-2.422l64.817 40.513a17.187 17.187 0 0 1 6.849 20.958l-32.408 81.021a17.188 17.188 0 0 1-17.669 10.719l-55.81-5.58c-21.051 58.261-20.612 122.471 0 179.515l55.811-5.581a17.188 17.188 0 0 1 17.669 10.719l32.408 81.022a17.188 17.188 0 0 1-6.849 20.958l-64.817 40.513a17.19 17.19 0 0 1-21.264-2.422zM247.126 95.473c11.832 20.047 11.832 45.008 0 65.055-3.95 6.693-13.108 7.959-18.718 2.581l-5.975-5.726c-3.911-3.748-4.793-9.622-2.261-14.41a32.063 32.063 0 0 0 0-29.945c-2.533-4.788-1.65-10.662 2.261-14.41l5.975-5.726c5.61-5.378 14.768-4.112 18.718 2.581zm91.787-91.187c60.14 71.604 60.092 175.882 0 247.428-4.474 5.327-12.53 5.746-17.552.933l-5.798-5.557c-4.56-4.371-4.977-11.529-.93-16.379 49.687-59.538 49.646-145.933 0-205.422-4.047-4.85-3.631-12.008.93-16.379l5.798-5.557c5.022-4.813 13.078-4.394 17.552.933zm-45.972 44.941c36.05 46.322 36.108 111.149 0 157.546-4.39 5.641-12.697 6.251-17.856 1.304l-5.818-5.579c-4.4-4.219-4.998-11.095-1.285-15.931 26.536-34.564 26.534-82.572 0-117.134-3.713-4.836-3.115-11.711 1.285-15.931l5.818-5.579c5.159-4.947 13.466-4.337 17.856 1.304z\",\"viewbox\":\"0 0 384 512\"}"}],"space_btn_list":"","space_btn_icon_text":"","divider":"no","divider_style":"solid","divider_weight":"","divider_color":"","icon_color":"#106ca0","background_color":"","width":"20"}}}
+Complete 
+Batch Process Started!
+Astra Sites - Importing Images for Blog name 'jaguarlimo' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 9
+Post ID: 10
+Post ID: 11
+Post ID: 13
+Post ID: 14
+Batch Process Complete!

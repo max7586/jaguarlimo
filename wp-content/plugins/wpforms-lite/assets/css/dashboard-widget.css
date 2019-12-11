@@ -322,7 +322,7 @@
 }
 
 .wpforms-dash-widget.wpforms-pro .wpforms-dash-widget-forms-list-block table button {
-  background: #fff url(https://max7586.github.io/jaguarlimo/wp-content/plugins/wpforms-lite/assets/images/icon-graph.png) center center no-repeat;
+  background: #fff url(https://https://max7586.github.io/jaguarlimo/wp-content/plugins/wpforms-lite/assets/images/icon-graph.png) center center no-repeat;
   background-size: 62%;
   border: 1px solid #ddd;
   border-radius: 5px;
@@ -345,7 +345,7 @@
   right: 0;
   bottom: 0;
   left: 0;
-  background: url(https://max7586.github.io/jaguarlimo/wp-includes/images/spinner.gif) no-repeat center calc(50% - 12px);
+  background: url(https://https://max7586.github.io/jaguarlimo/wp-includes/images/spinner.gif) no-repeat center calc(50% - 12px);
   background-color: white;
   z-index: 10;
 }
